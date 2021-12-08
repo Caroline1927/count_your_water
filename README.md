@@ -12,3 +12,7 @@ Monika Tańska - Designer, frontend developer
 Weronika Witasik - Programista
 Александра Граудул - Tester
 Karina Verkholomova - Programista
+#
+Wymagania funkcjonalne:
+1. Użytkownik będzie mógł aktualizować ilość wypitej wody.
+2. Użytkownik będzie miał możliwość automatycznego obliczenia zapotrzebowania na wodę na podstawie jego wzrostu i wagi.
