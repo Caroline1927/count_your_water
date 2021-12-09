@@ -15,3 +15,4 @@ Karina Verkholomova - Programista
 #
 Wymagania funkcjonalne
 1. Użytkownik będzie otrzymywał przypomnienia o piciu wody.
+2. Użytkownik będzie miał możliwość automatycznego obliczenia zapotrzebowania na wodę na podstawie jego wzrostu i wagi.
